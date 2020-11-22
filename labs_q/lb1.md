@@ -1,4 +1,4 @@
-![](.\img\essence_alphas.png)
+![](\img\essence_alphas.png)
 
 # Что такое "возможности" (opportunities) и кто такие "stakeholders"?
 
@@ -12,7 +12,7 @@
 
 Состояния альф:
 
-![](.\img\essence_opp_stake_alphas_states.png)
+![](\img\essence_opp_stake_alphas_states.png)
 
 # Какие возможности определены для рассматриваемой системы?
 
